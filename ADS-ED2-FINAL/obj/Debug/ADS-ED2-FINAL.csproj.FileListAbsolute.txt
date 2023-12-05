@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\bin\Debug\ADS-ED2-FINAL.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\bin\Debug\ADS-ED2-FINAL.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\bin\Debug\ADS-ED2-FINAL.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\obj\Debug\ADS-ED2-FINAL.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\obj\Debug\ADS-ED2-FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\obj\Debug\ADS_ED2_FINAL.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\obj\Debug\ADS-ED2-FINAL.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\obj\Debug\ADS-ED2-FINAL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\obj\Debug\ADS-ED2-FINAL.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\obj\Debug\ADS-ED2-FINAL.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-FINAL\ADS-ED2-FINAL\obj\Debug\ADS_ED2_FINAL.Form1.resources
